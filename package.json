@@ -1,15 +1,9 @@
 {
     "private": false,
     "engines": {
-        "node": ">=4.*",
-        "npm": ">=3.*"
+        "node": "*",
+        "npm": "*"
     },
-    "dependencies": {
-        "gulp": "*",
-        "gulp-connect": "*"
-    },
-    "devDependencies": {
-        "gulp": "*",
-        "gulp-connect": "*"
-    }
+    "dependencies": {},
+    "devDependencies": {}
 }

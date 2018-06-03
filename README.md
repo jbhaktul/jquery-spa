@@ -1,9 +1,11 @@
 # jquery-spa
-This is a Single Page Application using jQuery and Handlebars. Download the master.zip file, extract it and then in command prompt or in terminal run the commands below, within in the extracted folder.
+This is a Single Page Application using jQuery and Handlebars. Download the master.zip file or git clone the project, extract it and then in command prompt or in terminal run the commands below, within in the extracted folder:
 
-Example:
-c:\jquery-spa-master> npm install && gulp webserver
+npm i -g http-server
+http-server
 
 Open your browser to http://localhost:8080 and you should see this website:
 
-<img src="https://bb30gg.dm2303.livefilestore.com/y3mWu8BkQFuI1mu59zFn9U4uSxsMtDDvrxHfUDSBwdxzhP_4j5cNs1cxJ5_DSJS7AsVSNe3DRmfqlHEJXN-49XKnwTFItb_fzHUVIAhtVTDKArQ3Iak4wKheKMg0i5kSVZ4MBJT49Nf5zvJJBTbBxK_SDfgVu5qXm2aBjo9eVJklN0?width=1024&height=559&cropmode=none" width="1024" height="559" />
+<br/>![ Screenshot](https://github.com/jbhaktul/jquery-spa/blob/master/screenshot.png)
+
+This is a simple static website that loads 'index.html'.
