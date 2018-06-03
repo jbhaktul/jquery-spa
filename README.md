@@ -6,6 +6,6 @@ http-server
 
 Open your browser to http://localhost:8080 and you should see this website:
 
-<br/>![ Screenshot](https://github.com/jbhaktul/jquery-spa/blob/master/screenshot.png)
+<br/>![Screenshot](https://github.com/jbhaktul/jquery-spa/blob/master/screenshot.PNG)
 
 This is a simple static website that loads 'index.html'.
