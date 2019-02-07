@@ -1,9 +1,9 @@
 # jquery-spa
 This is a Single Page Application using jQuery and Handlebars. Download the master.zip file or git clone the project:
 
-..*npm install -g http-server
-..*cd jquery-spa
-..*http-server
+  *npm install -g http-server
+  *cd jquery-spa
+  *http-server
 
 Open your browser to http://localhost:8080 and you should see this website:
 
